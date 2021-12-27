@@ -1,0 +1,16 @@
+{
+  "name": "solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "tailwindcss": "^3.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC"
+}
